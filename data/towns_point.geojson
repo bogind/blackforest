@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "towns_point",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "Freiburg", "url": "https:\/\/visit.freiburg.de\/en", "image": "images\/freiburg.jpg", "description": "פרייבורג בברייסגאו (בגרמנית: Freiburg im Breisgau) היא עיר במדינת באדן-וירטמברג שבדרום-מערב גרמניה. העיר מאכלסת כ-230,000 תושבים (נכון לשנת 2011) ומוקפת בהרי היער השחור הסמוך למשולש הגבולות גרמניה-צרפת-שווייץ. פירוש שמה בתרגום מגרמנית הוא \"העיר החופשית\", עדות לעובדה שהעיר הוקמה כאזור סחר חופשי.\n\nהעיר פרייבורג נחשבת לעיר החמה ביותר בגרמניה והאקלים לרוב חמים ובהיר יותר משאר ערי גרמניה. ", "hebname": "פרייבורג" }, "geometry": { "type": "Point", "coordinates": [ 7.838646647767971, 47.992613387293012 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "name": "Titisee", "url": null, "image": null, "description": null, "hebname": "טיטיזי" }, "geometry": { "type": "Point", "coordinates": [ 8.151680983593254, 47.901625224035499 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "Schluchsee", "url": null, "image": null, "description": null, "hebname": "שלוכזי" }, "geometry": { "type": "Point", "coordinates": [ 8.177378609647315, 47.818624195146086 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "Feldberg", "url": null, "image": null, "description": null, "hebname": "פלדברג" }, "geometry": { "type": "Point", "coordinates": [ 8.095857351931985, 47.86987541823855 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "name": "Hinterzarten", "url": null, "image": null, "description": null, "hebname": "הינטרזארטן" }, "geometry": { "type": "Point", "coordinates": [ 8.105677934823397, 47.905737736155018 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "name": "Todnau", "url": null, "image": null, "description": null, "hebname": "טודנאו" }, "geometry": { "type": "Point", "coordinates": [ 7.942635419392721, 47.827168124855142 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "name": "Triberg", "url": null, "image": null, "description": null, "hebname": "טריברג" }, "geometry": { "type": "Point", "coordinates": [ 8.234021829201932, 48.133005999554612 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "name": "Baden Baden", "url": null, "image": null, "description": null, "hebname": "באדן באדן" }, "geometry": { "type": "Point", "coordinates": [ 8.241417372159416, 48.75823309438379 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "name": "Basel", "url": null, "image": null, "description": null, "hebname": "באזל" }, "geometry": { "type": "Point", "coordinates": [ 7.588009223572363, 47.558303918975703 ] } }
+]
+}

@@ -1,0 +1,35 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+html, body, #map {
+    height: 100%;
+    width: 100%;
+}
+.tooltip {
+  background-color:rgba(0, 0, 0, 0.01);
+  direction: rtl;
+  font-size: 1.5em;
+  text-shadow: 0.25px 2px black;
+  color: #009933;
+  border: 0px solid cyan
+}
+.leaflet-popup-tip-container {
+    display: none;
+} 
+.leaflet-popup {
+position: absolute;
+text-align: center;
+direction: rtl;
+}
+.leaflet-popup-content img {
+	margin: 0 auto; 
+	display:block; 
+	direction: rtl;
+	}
+	.leaflet-popup-content-wrapper {
+
+    text-align: center;
+
+}
+	
